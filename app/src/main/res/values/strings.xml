@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Easy QR Reader</string>
+    <string name="action_exit">Exit</string>
+    <string name="title_activity_web_client">Your Page Right Here</string>
+
+    <string name="slogan">Simple the way you like.</string>
+    <string name="development"><u>About development.</u></string>
+</resources>
